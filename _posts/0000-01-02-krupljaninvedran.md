@@ -1,11 +1,7 @@
-3.	---
-4.	
-5.	layout: new layout
-6.	
-7.	title: "Welcome to our second slide!"
-8.	
-9.	---
-10.	
-11.	Your text
-12.	
+
+layout: new layout
+title: "Welcome to our second slide!"
+
+Your text
+
 Use the left arrow to go back!
