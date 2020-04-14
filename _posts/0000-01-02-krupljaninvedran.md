@@ -1,6 +1,5 @@
 
-layout: new layout
-title: "Welcome to our second slide!"
+"Welcome to our second slide!"
 
 Your text
 
